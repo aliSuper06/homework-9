@@ -1,7 +1,6 @@
 {
   "name": "lesson-3",
   "version": "0.1.0",
-  "homepage": "http://aliSuper06.github.io/home-work-7/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
